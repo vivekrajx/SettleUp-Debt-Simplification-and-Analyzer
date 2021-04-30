@@ -1,0 +1,6 @@
+*.out
+*.exe
+*.o
+*.sh
+*.a
+exe
